@@ -1,0 +1,39 @@
+/* Reset margins and paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+/* Full-screen background image */
+.background-image {
+    background-image: url('images/lyric01.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    position: relative; /* Required for positioning the overlay text */
+}
+
+/* Centered overlay text box with modern style */
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: teal; /* Teal background */
+    color: black; /* Black text */
+    padding: 10px 20px; /* Smaller padding for less border area */
+    text-align: center;
+    font-size: 32px; /* Slightly increased font size */
+    font-family: 'Helvetica', 'Arial', sans-serif; /* Modern, clean font */
+    font-weight: bold; /* Bold text */
+    font-style: italic; /* Italicized text */
+    border-radius: 5px; /* Smaller radius for more defined corners */
+}
