@@ -1,0 +1,596 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.text-box {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s ease; /* Smooth transition for background change */
+}
+
+/* Full screen background */
+body {
+    background: url('images/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
