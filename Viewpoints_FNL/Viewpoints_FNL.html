@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Video Player</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="video-container" onclick="startPlayback()">
+    <video id="video-player">
+      <source src="Videos/video1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div id="caption">Caption for Video 1</div>
+  </div>
+  <audio id="audio-player">
+    <source src="Audio/Audio1.wav" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+  <script src="script.js"></script>
+</body>
+</html>
+
