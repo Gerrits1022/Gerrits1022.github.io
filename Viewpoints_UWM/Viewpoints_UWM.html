@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Video Player</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="video-container" onclick="handleClick()">
+    <div id="transition-overlay"></div>
+    <video id="video-player" muted>
+      <source src="Videos/Video1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div id="caption">Breaking Bad - before color correction</div>
+  </div>
+  <audio id="audio-player" loop>
+    <source src="Audio/Audio1.wav" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+  <script src="script.js"></script>
+</body>
+</html>
